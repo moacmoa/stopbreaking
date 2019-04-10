@@ -1,5 +1,5 @@
 # stopbreaking
-stopping to stop breaking
+I whant to stop to stop breaking :D
 
 # Infos
 Dans ressources, y a des fichiers HTML examples qui sont des pages recuperées avec firefox.
