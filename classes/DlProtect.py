@@ -100,4 +100,10 @@ class DlProtect():
 			self.params[name]=str(input["value"])
 
 		#On recupere la valeur du dernier parametre (le truc chelou à calculer)
-		self.params["jschl-answer"]=self.number
+		self.params["jschl_answer"]=self.number
+
+	def postAndSoup(self, params="None"):
+		print(params)
+		r=self.session.post(self.url, params=params)
+		print("[INFO] HTTP Response status = {}".format(r.status_code))
+		self.html=r.text.encode("utf-8")

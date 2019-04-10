@@ -1,3 +1,8 @@
+Obsolètes :
 example_01.html" # doit renvoyer "17.340116078". jschl_vc="b8de90b9bd19d28e09552734aeaed0c5" ; pass="1541604585.259-4PigWLwT9D"
 example_02.html" # doit renvoyer "11.6668150211". jschl_vc="61fdaf510152ecfe5ea949fa9d28b195" ; pass="1541606638.446-AP/j9OoySq"
 example_03.html" # doit renvoyer "25.435670547". jschl_vc="ae9b89e7c00160fd8ec413ee17fff3f2" ; pass="1541619503.753-nugpDn6NTE"
+
+Now :
+example_04.html" # doit renvoyer "11.2969144335". jschl_vc="0a0553dd305ecba46f97bc2bfad46c40" ; pass="1554562776.728-97+p1adE1L"
+example_05.html" # doit renvoyer "53.8753303702". jschl_vc="0a6a351bd51a580673af01954b93587f" ; pass="1554806816.446-Q8GStrxkfi" (https://annuaire-telechargement.com)
